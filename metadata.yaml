@@ -1,0 +1,9 @@
+homepage: "https://github.com/SiteSpot/gtm-template-ab-split-test-send-conversion"
+documentation: "https://github.com/SiteSpot/gtm-template-ab-split-test-send-conversion/blob/main/README.md"
+versions:
+  - sha: UPDATE_AFTER_FIRST_COMMIT
+    changeNotes: >-
+      Initial release of AB Split Test Send Conversion template.
+      Sends conversion, goal, or visit events from GTM back to
+      AB Split Test WordPress plugin via admin-ajax.php endpoint.
+      Supports optional order value and advanced tracking ID.
