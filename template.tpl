@@ -1,3 +1,11 @@
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
 ___INFO___
 
 {
@@ -201,8 +209,3 @@ setup: ''
 ___NOTES___
 
 User Notes: This template sends conversion, goal, or visit events from Google Tag Manager back to the AB Split Test WordPress plugin.
-
-
-___TERMS_OF_SERVICE___
-
-By using this template, you agree to the terms of service available at https://github.com/SiteSpot/gtm-template-ab-split-test-send-conversion
