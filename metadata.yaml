@@ -1,7 +1,7 @@
 homepage: "https://github.com/SiteSpot/gtm-template-ab-split-test-send-conversion"
 documentation: "https://github.com/SiteSpot/gtm-template-ab-split-test-send-conversion/blob/main/README.md"
 versions:
-  - sha: e5490dc96f2940cb37f11a0c8cb2d9ca9411bbb5
+  - sha: 84f55d3587adc6e98366bbadf66a539a0aaf0278
     changeNotes: >-
       Initial release of AB Split Test Send Conversion template.
       Sends conversion, goal, or visit events from GTM back to
